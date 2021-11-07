@@ -1,5 +1,5 @@
 # Manager-exams-multitasking-multiprocess
-This project is made up of 2 Activities.
+This project is made up of 2 Activities that run in the terminal.
 Activity 1
   This activity is about the implementation of multitasking in an exam manager creating several simultaneous threads of execution within the same process.
 
@@ -8,7 +8,9 @@ Activity 2
 
 
 
-Este prtoyecto se compone de 2 Actividades.
+
+
+Este prtoyecto se compone de 2 Actividades que se ejecutan en la terminal.
 Actividad 1
   Esta actividad se trata de la implementacion de la multitarea en un gestor de examenes creando varios hilos de ejecución simultáneos dentro del mismo proceso.
 
