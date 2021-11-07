@@ -1,4 +1,4 @@
-# Gestor-examenes-multitarea-multiproceso
+# Manager-exams-multitasking-multiprocess
 This project is made up of 2 Activities.
 Activity 1
   This activity is about the implementation of multitasking in an exam manager creating several simultaneous threads of execution within the same process.
